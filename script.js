@@ -1,3 +1,5 @@
+const friends = ['Mango', 'Poly', 'Kiwi', 'Ajax'];
+console.log(friends.join(','));
 // 3
 const cards = [
     'Карточка-1',
@@ -11,5 +13,5 @@ console.log(cards);
 console.log(cardToRemove);
 const cardToInsert = (5, 1, 'Карточка-6');
 console.log(cardToInsert);
-const cardToUpdate = (3, 1, 'Карточка-4')
+const cardToUpdate = (3, 1, 'Карточка-4');
 
