@@ -1,6 +1,10 @@
-const friends = ['Mango', 'Poly', 'Kiwi', 'Ajax'];
-console.log(friends.join(','));
+const friend = 'Mango Poly Kiwi Ajax';
+console.log(friend.split(' '));
+
+// const friends = ['Mango', 'Poly', 'Kiwi', 'Ajax'];
+// console.log(friends.join(','));
 // 3
+
 const cards = [
     'Карточка-1',
     'Карточка-2',
